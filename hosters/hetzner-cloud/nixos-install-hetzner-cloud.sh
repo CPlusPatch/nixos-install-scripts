@@ -66,7 +66,7 @@ echo '
 
   users.users.root.openssh.authorizedKeys.keys = [
     # Replace this by your SSH pubkey!
-    "ssh-rsa AAAAAAAAAAA..."
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBTnIqNUxIy16WPExWKKxt55cRlggDeQMQB3gHY+wUUamzDxeK/j0VYUYRwL6Uxp+pNMNkjI/XitYHs4eRL/oWUcSlBkho9fvwoHmiyZyx0lk106rUxiT6J/IQqVsGK0OU5nxDOBzpWYxfsrwNf5ckYXUpaBHvzS4TPk2iXzp4ErLEdt5b5qkF5ed1AsRcbK9vj8i8bsXDA8d8n2g9FrguH5W3QIX9C1b1Mc8tVVZE1Q5yv3O9p/ID1Un98zz30+WQdVz5K90W+v5kBm+REMWTExXor3b/NolUAnDFEKkacXYeJW1f2kISh7F8txrkINOLkO2+Y7pnjVODNr8HYTVj8ivt8+KxIxseqe++HKKYe0xaanyQXfTPHAN0iqgSiLfXR3h9RRxAZoPV2foU0NZMhnOjFMPM4cqfVil53o2aVILX0/HCdGRo+lFKiyJjHP2aTJNvCjNSBvx651+PEsozeQMeBFedrzjrAjdt/9MLOYq5oTNl8gb8hmInZim32vM= contact@cpluspatch.com"
   ];
 }
 ' >> /mnt/etc/nixos/configuration.nix
